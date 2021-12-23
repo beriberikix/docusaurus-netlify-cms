@@ -1,8 +1,10 @@
 ---
 id: doc1
-title: Style Guide
+title: Style Guide (not!)
 sidebar_label: Style Guide
 slug: /
+hide_title: true
+hide_table_of_contents: true
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
